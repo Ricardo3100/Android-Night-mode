@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+
+    <!--<ImageView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:contentDescription="@string/descr_overflow_button"-->
+
+        <!--android:onClick="showPopup"-->
+        <!--android:src="@drawable/disabledicon"-->
+        <!--app:layout_constraintRight_toRightOf="parent"-->
+        <!--android:id="@+id/easeofaccess"-->
+        <!--app:layout_constraintBottom_toBottomOf="parent"-->
+
+        <!--android:layout_height="wrap_content"-->
+        <!--/>-->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:paddingBottom="60dp"
+        android:textColor="@color/daynight_textcolor"
+        android:textSize="14sp"
+
+        android:text="@string/dummy_text_usually_latin_is_filler_content_that_allows_our_clients_to_view_their_design_without_being_distracted_by_the_content_by_using_unreadable_text_clients_can_see_how_the_page_will_look_on_a_surface_level_ensuring_that_the_colors_ratios_and_specific_design_elements_work_together"
+
+        />
+
+    <android.support.v7.widget.SwitchCompat
+        android:id="@+id/switchCompat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@android:dimen/app_icon_size"
+        android:theme="@style/MySwitch"
+
+        android:checked="false"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        />
+
+
+
+    </RelativeLayout>

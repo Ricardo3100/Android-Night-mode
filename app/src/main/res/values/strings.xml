@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Blind Acccessibility</string>
+    <string name="descr_overflow_button">Descriotion</string>
+    <string name="dummy_text_usually_latin_is_filler_content_that_allows_our_clients_to_view_their_design_without_being_distracted_by_the_content_by_using_unreadable_text_clients_can_see_how_the_page_will_look_on_a_surface_level_ensuring_that_the_colors_ratios_and_specific_design_elements_work_together">Dummy text dummy_text_usually_latin_is_filler_content_that_allows_our_clients_to_view_their_design_without_being_distracted_by_the_content_by_using_unreadable_text_clients_can_see_how_the_page_will_look_on_
+        a_surface_level_ensuring_that_
+        the_colors_ratios_and_specific_design_elements_work_together</string>
+    <string name="Night_Mode">Night Mode</string>
+    <string name="Increase_Text_Size">Increase Text Size</string>
+    <string name="Decrease_Text_Size">Decrease Text Size</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F515B</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--the color for the text is under day night text color is for the text-->
+
+    <color name="daynight_textcolor">#ffffff </color>
+    <!--The color here will be displayed in the app bar where the name shows up-->
+    <color name="orange">#3F515B</color>
+    <!--The code below is for the colors that will be displayed uin the top nav bar-->
+    <color name="orangeDark">#f77000</color>
+    <color name="switchColor">#ff8200</color>
+    <!--911DEE-->
+</resources>
